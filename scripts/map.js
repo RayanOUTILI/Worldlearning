@@ -309,6 +309,7 @@ function getCodeAlpha2(countryName) {
         'République centrafricaine': 'CF',
         'République démocratique du Congo': 'CD',
         'République dominicaine': 'DO',
+        'République Tchèque' : 'CZ',
         Roumanie: 'RO',
         'Royaume-Uni': 'GB',
         Russie: 'RU',
